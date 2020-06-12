@@ -1,0 +1,37 @@
+.body {
+  padding: 0 16px;
+}
+
+.container {
+  display: inline;
+}
+
+.item {
+  color: grey;
+  vertical-align: middle;
+}
+
+.tel{
+  color: rgb(246,	194,	68);
+  text-decoration: none;
+}
+
+.movieCard{
+  color: black;
+  filter: blur(2px);
+}
+
+.onscreens {
+  margin-top: 1vh;
+  margin-bottom: 2vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
+
+.time {
+  vertical-align: middle;
+}
+
+.content {
+  margin: 0;
+}

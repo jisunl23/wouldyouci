@@ -1,0 +1,70 @@
+.ratings {
+  padding: 0 16px;
+
+}
+
+.rating-form {
+  padding: 5vh 5vw ;
+}
+
+.notification {
+  text-align: center;
+}
+
+.rating {
+  padding: 0;
+}
+
+.avg-score {
+  font-weight: 600;
+  font-size: large;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 10%;
+}
+
+.infos{
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+  margin: 1vh 0;
+  height: 2.5vh;
+}
+
+.user{
+  font-size: 1.5vh;
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+  padding-top: 0.5vh;
+}
+
+
+.score{
+  display: inline-block;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.content{
+  display: flex;
+  justify-content: space-between;
+}
+
+.comment{
+  font-size: small;
+}
+
+.button{
+  display: inline-block;
+  text-align: right;
+}
+
+.upbutton{
+  margin-bottom: 6vh;
+}
+
+i.fas,
+i.fab {
+  size: 2px,
+}

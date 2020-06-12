@@ -1,0 +1,17 @@
+.ratingFrom {
+  padding: 16px;
+}
+
+.score{
+  text-align: center;
+}
+
+.comment{
+  display: flex;
+  text-align: right;
+  /* justify-content: space-between; */
+}
+
+.button{
+  text-align: right;
+}

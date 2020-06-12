@@ -1,0 +1,100 @@
+#app > div > div.movieCard > div > div > div.v-slide-group__wrapper > div > div > div > div:nth-child(1) {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+
+.mychip >>> span{
+  font-size: 12px;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.mycard{
+  height: 24vh;
+  width: 74vw;
+}
+
+.card_image{
+  margin-top: 1vh;
+  margin-left: 5vw;
+  height: 22vh;
+  width: 28vw;
+  border-radius: 8px 8px 8px 8px;
+}
+
+#app > div > div.movieCard > div > div > div.v-slide-group__wrapper > div > div > div > div:nth-child(2) > div {
+  padding: 0;
+}
+
+.noItem{
+  opacity: 0.98;
+}
+
+.noMovie{
+  text-align: center;
+  position: relative;
+  top: 10vh;
+  height: 24vh;
+  color: #acacac;
+  font-weight: 400;
+}
+
+.chipfortime{
+  margin-left: 2px;
+}
+
+.divfont{
+  font-size: 10px;
+  line-height: 15px;
+}
+
+.divseat{
+  font-size: 12px;
+  line-height: 17px;
+}
+
+.spanstrong{
+  font-size: 11px;
+  font-weight: bold;
+  color: #474747;
+}
+
+.spanlight{
+  font-size: 11px;
+  color: #9c9c9c;
+}
+
+.spancolor{
+  font-size: 11px;
+  font-weight: bold;
+  color: #4220a5;
+}
+
+.dehighlight{
+  font-size: 10px;
+  color: #9c9c9c;
+}
+
+.mytitle{
+  font-size: 17px;
+  color: #000000;
+  font-weight: bold;
+  line-height: 17px;
+}
+
+.mysubtitle{
+  font-size: 12px;
+  color: #aaaaaa;
+}
+
+.mysubtitle2{
+  font-size: 12px;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.detail{
+  position: absolute;
+  bottom: 2vh;
+}

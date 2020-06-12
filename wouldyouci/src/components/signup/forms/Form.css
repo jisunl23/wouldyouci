@@ -1,0 +1,18 @@
+.form{
+  width: 80vw;
+  margin-left: 10vw;
+
+}
+
+.v-btn{
+  margin-right: 3vh;
+}
+
+.errors{
+  margin-left: 3vw;
+  color: #FF5654;
+}
+
+.formtitle{
+  color: #67247B;
+}

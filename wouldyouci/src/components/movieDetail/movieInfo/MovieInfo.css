@@ -1,0 +1,12 @@
+.body {
+  padding: 0 16px;
+}
+
+.container {
+  display: inline;
+}
+
+.item {
+  color: grey;
+  vertical-align: middle;
+}

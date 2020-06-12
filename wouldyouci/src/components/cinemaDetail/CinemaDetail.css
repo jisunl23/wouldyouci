@@ -1,0 +1,36 @@
+.body {
+  margin-bottom: 10%;
+  padding: 0
+}
+
+.image {
+  position: relative;
+}
+
+.media {
+  width: auto;
+  height: auto;
+}
+
+.details{
+  margin-top: 3vh;
+  margin-bottom: 7vh;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.tel{
+  color: rgb(246,	194,	68);
+  text-decoration: none;
+}
+
+.right {
+  margin: 0 16px;
+  position: absolute;
+  right: 8px;
+}
+
+.tab-item {
+  padding: 0 20px;
+}
+

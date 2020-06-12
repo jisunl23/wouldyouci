@@ -1,0 +1,34 @@
+div.logo{
+  margin-top: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+img.logo{
+  width: 50px;
+  height: 50px;
+}
+
+div.title{
+  text-align: center;
+}
+
+img.title{
+  width: 300px;
+  height: 300px;
+}
+
+.goMapBtn{
+  text-align: right;
+  margin-top: 1vh;
+  margin-right: 11vw;
+}
+
+#app > div > div.goMapBtn > button {
+  padding-right: 0;
+  margin-bottom: 1vh;
+}
+
+#app > div > div.goMapBtn > button > span > i {
+  margin-left: 3vw;
+}

@@ -1,0 +1,16 @@
+.v-dialog > .v-card > .v-card__text{
+  padding-top: 3vh;
+}
+
+h3{
+  margin-bottom: 3vh;
+}
+
+div.v-card__actions{
+  height: 8vh;
+}
+
+.v-item-group{
+  position: absolute;
+  right: 3vh;
+}

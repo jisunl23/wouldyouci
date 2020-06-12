@@ -1,0 +1,82 @@
+#app > div > div.movieCard > div > div > div.v-slide-group__wrapper > div > div > div > div:nth-child(1) {
+	padding: 0;
+  }
+
+  .label{
+	margin-top: 2vh;
+	}
+	
+  .ranklist{
+	padding-top: 0;
+	background-color: white;
+  }
+	
+	.mychip >>> span{
+	font-size: 12px;
+	font-family: 'Noto Sans KR', sans-serif;
+  }
+	
+	.cinemaInfo{
+	 padding-top: 0;
+	 height: 10vh
+	}
+	
+  .rating{
+	/* padding-bottom: 2vh; */
+  }
+  
+  .mycard{
+	height: 24vh;
+	width: 74vw;
+  }
+  
+  .card_image{
+	margin-left: 3vw;
+	margin-bottom: 1vh;
+	height: 20vh;
+	width: 30vw;
+	border-radius: 10px;
+  }
+
+  .infos {
+	  height: 6vh;
+  }
+  
+  #app > div > div.movieCard > div > div > div.v-slide-group__wrapper > div > div > div > div:nth-child(2) > div {
+	padding: 0;
+  }
+  
+  .noItem{
+	opacity: 0.98;
+  }
+  
+  .noMovie{
+	text-align: center;
+	position: relative;
+	top: 10vh;
+	height: 24vh;
+	
+	color: #acacac;
+	font-weight: 400;
+  }
+  
+  
+  .mytitle{
+	font-size: 17px;
+	color: #000000;
+	font-weight: bold;
+	line-height: 17px;
+  }
+  
+  .mysubtitle{
+	font-size: 12px;
+	color: #aaaaaa;
+  }
+  
+  .mysubtitle2{
+	font-size: 12px;
+	color: #ffffff;
+	margin: 0;
+	padding: 0;
+  }
+  

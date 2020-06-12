@@ -1,0 +1,4 @@
+[
+    "SELECT *  FROM movies_onscreen WHERE cinema_id = 72 AND date = \"2020-06-05\" AND start_time = \"18:50\" AND cm_code = 15834 AND total_seats = \"178\"",
+    "SELECT *  FROM movies_onscreen WHERE cinema_id = 72 AND date = \"2020-06-05\" AND start_time = \"20:50\" AND cm_code = 15834 AND total_seats = \"178\""
+]

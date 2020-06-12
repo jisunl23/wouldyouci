@@ -1,0 +1,10 @@
+.v-card{
+    width: auto;
+    height: auto;
+    padding: 3vh;
+  }
+  
+  .v-divider{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+  }

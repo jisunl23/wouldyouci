@@ -1,0 +1,73 @@
+.v-text-field >>> label {
+  font-size: 0.8em;
+  /*color: rgba(32, 28, 104, 0.6);*/
+  /*opacity: 0.8;*/
+  /*margin-bottom: 0;*/
+  /*line-height: px;*/
+  color: rgba(136, 118, 206, 0.75);
+  /*color: rgba(2, 21, 76, 0.63);*/
+}
+
+.myToolbar{
+  margin-top: 2vh;
+  /*margin-bottom: 1vh;*/
+  /*backface-visibility: */
+  opacity: 0.9;
+  position: absolute;
+  top: 9vh;
+  /* width: 90vw; */
+  left: 5vw;
+  border-radius: 8px;
+  /*height: 50vh;*/
+  /*right: 15vw;*/
+}
+
+.v-toolbar__content{
+  width: 86.5vw;
+  padding-left: 0;
+}
+
+.btnIcon{
+  margin-left: 2vw;
+}
+
+#map {
+  /*top: 7vh;*/
+  height: 84vh;
+  border-radius: 13px 13px 0px 0px;
+  background: gray;
+}
+
+.nowArea{
+  position: absolute;
+  top: 20vh;
+  opacity: 0.9;
+  /*right: 8vw;*/
+  /*align-content: center;*/
+  /*top: 15.5vh;*/
+  border-radius: 15px 15px;
+  left: 30vw;
+  /*color: #022280;*/
+  color: #8876ce;
+}
+
+.reload {
+  position: absolute;
+  bottom: 11vh;
+  /*top: 19vh;*/
+  right: 4vw;
+  opacity: 0.8;
+}
+
+.movieCard{
+  position: absolute;
+  bottom: 10vh;
+  left: 2.5vw;
+  width: 95vw;
+}
+
+#app > div > div.v-progress-circular {
+  position: absolute;
+  top: 45vh;
+  right: 38vw;
+}

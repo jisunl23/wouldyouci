@@ -1,0 +1,37 @@
+.label{
+    margin-top: 2vh;
+    margin-left: 6vw;
+    margin-bottom: 0;
+    color: #674c80;
+}
+.card{
+    margin-right:2vh;
+    background-size: cover;
+    background-position:center;
+    
+    border-radius: 12px !important; 
+}
+.lists{
+    padding-top: 0;
+    margin-top: 0;
+}
+/* .cardname{
+    font-size: small;
+    padding-top: 11vh;
+    bottom:0.5vh;
+} */
+.theaterinfo{
+    text-align: center;
+    font-size: small;
+}
+
+.noContent{
+    text-align: center;
+    margin-left: 5vw;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+}
+
+.noContentExp{
+    padding-top: 8vh;
+}

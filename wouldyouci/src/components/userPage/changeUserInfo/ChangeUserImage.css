@@ -1,0 +1,24 @@
+.changeUserImage{
+  height: auto;
+  width: auto;
+}
+
+.userImage{
+  margin-left: 3vh;
+  margin-right: 3vh;
+}
+
+.prev{
+  height: auto;
+  width: auto;
+}
+
+div.v-card__actions{
+  height: 8vh;
+}
+
+.v-item-group{
+  position: absolute;
+  right: 3vh;
+}
+  

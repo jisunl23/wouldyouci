@@ -1,0 +1,7 @@
+recommendation/movie_director_train.p
+recommendation/movie_train.p
+recommendation/genres_train.p
+recommendation/KNN.p
+recommendation/genres.csv
+*.p
+*.csv

@@ -1,0 +1,8 @@
+accounts/migrations/*
+movies/migrations/*
+cinemas/migrations/*
+accounts/fixtures/*
+movies/fixtures/*
+cinemas/fixtures/*
+media/profile/*
+utils/*.p

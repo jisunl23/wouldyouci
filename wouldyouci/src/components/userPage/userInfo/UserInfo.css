@@ -1,0 +1,45 @@
+.userInfo{
+  text-align: center;
+  background: linear-gradient(#ffffff 10%, rgba(163, 102, 244, 0.13));
+}
+
+.userImage{
+  width: 17vh;
+  height: 17vh;
+  margin-bottom: 1vh;
+  border-radius: 80%;
+  border: 0.2vh solid rgba(163, 102, 244, 0.10);
+  vertical-align: middle;
+  background-color: #ffffff;
+}
+
+.userName{
+  vertical-align: middle;
+  font-size: 5vw;
+  text-align: center;
+  color: #2e1b40;
+}
+
+.userHello{
+  vertical-align: middle;
+  font-size: 4vw;
+  text-align: center;
+  color: #be7aac;
+}
+
+
+.bigUserImage{
+  width: auto;
+  height: 50vh;
+  background-color: #ffffff;
+}
+
+#app > div.v-dialog__content.v-dialog__content--active > div > div > div {
+  position: relative;
+}
+
+.btnTrash{
+  position: absolute;
+  top: 1vh;
+  color: grey;
+}

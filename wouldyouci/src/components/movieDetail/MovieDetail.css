@@ -1,0 +1,35 @@
+.body {
+  margin-bottom: 10%;
+  padding: 0;
+}
+
+.trailer {
+  width: 100%;
+}
+
+.details{
+  margin: 3vh 5vw;
+}
+
+.container {
+  padding-left: 16px;
+  font-size: 2.5vh;
+  display: inline-flex;
+}
+
+.left {
+  padding-top: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.right {
+  margin: 16px;
+  display: inline-block;
+  position: absolute;
+  right: 8px;
+}
+
+.tab-item {
+  padding: 0 20px;
+}

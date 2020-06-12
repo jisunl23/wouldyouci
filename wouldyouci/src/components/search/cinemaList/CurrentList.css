@@ -1,0 +1,84 @@
+#app > div > div.movieCard > div > div > div.v-slide-group__wrapper > div > div > div > div:nth-child(1) {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-right: 0;
+}
+
+.label{
+  margin-top: 2vh;
+  margin-left: 4vw;
+  margin-bottom: 0;
+  color: #674c80
+}
+.ranklist{
+  padding-top: 0;
+}
+.mychip >>> span{
+  font-size: 12px;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+.movieInfo{
+   padding-top: 0; 
+}
+.rating{
+  padding-bottom: 0vh;
+}
+
+.mycard{
+  height: 24vh;
+  width: 85vw;
+}
+
+.card_image{
+  margin-bottom: 1vh;
+  margin-left: 0vw;
+  height: 19vh;
+  width: 24vw;
+  border-radius: 10px;
+}
+
+#app > div > div.movieCard > div > div > div.v-slide-group__wrapper > div > div > div > div:nth-child(2) > div {
+  padding: 0;
+}
+
+.noItem{
+  opacity: 0.98;
+}
+.noMovie{
+  text-align: center;
+  position: relative;
+  top: 10vh;
+  height: 24vh;
+  color: #acacac;
+  font-weight: 400;
+}
+
+
+.mytitle{
+  font-size: 17px;
+  color: #000000;
+  font-weight: bold;
+  line-height: 17px;
+}
+
+.mysubtitle{
+  font-size: 12px;
+  color: #aaaaaa;
+}
+
+.mysubtitle2{
+  font-size: 12px;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.genre{
+  font-size: x-small;
+}
+
+.reviewCount{
+  padding-top: 6.8vh;
+  color: #acacac;
+  font-size: small;
+}

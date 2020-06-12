@@ -1,0 +1,28 @@
+.search {
+  margin-left: 5vw;
+  margin-right: 5vw;
+  margin-bottom: 10vh;
+}
+.now {
+  margin-top: 4vh;
+  margin-bottom: 2vh;
+  align-content: center;
+}
+.toggle{
+  margin-left: 25vw;
+  padding-top: 0;
+}
+#app > div > div.search > div.now > button {
+  padding-left: 0;
+}
+
+/* radio button */
+#app > div > div.search > div.container > div {
+  margin-top:0;
+  height:3vh;
+}
+
+.auto{
+  padding-top: 2vh;
+  margin-bottom: 2vh;
+}

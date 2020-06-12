@@ -1,0 +1,7 @@
+.env
+venv
+__pycache__
+testfunction.py
+*.json
+test_info.json
+test_dict.json
